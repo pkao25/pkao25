@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hi there! 👋
 
 I am Preston and I am a student at The University of Chicago graduating in 2029. 
 ## About Me: 
