@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 👋
+
+I am Preston and I am a student at The University of Chicago studying Computer Science and Economics 
 
 <!--
 **pkao25/pkao25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
